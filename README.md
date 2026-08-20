@@ -136,6 +136,12 @@ The main EO product flow rate was approximately:
 
 with negligible EO loss through the small overhead vapor stream.
 
+
+## Process Flowsheet
+
+The complete ethylene oxide production process was developed and simulated in Aspen HYSYS.
+
+![Ethylene Oxide Process Flowsheet](assets/Ethylene-oxide.png)
 ---
 
 ## Equipment Sizing
